@@ -1,0 +1,31 @@
+body {
+    font-family: 'Times New Roman', serif;
+    color: maroon;
+    margin: 2%;
+}
+
+h1 {
+    background-color: orangered;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    background-color: chocolate;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+p {
+    color: maroon;
+}
+
+p strong {
+    color: red;
+}
+
+p em {
+    color: red;
+}
